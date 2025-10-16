@@ -1,3 +1,12 @@
+//.env
+/*REACT_APP_AUTH0_DOMAIN=dev-sq2d1t04wb11ubh2.us.auth0.com
+REACT_APP_AUTH0_CLIENT_ID=tiaXupXiXFekLFqLVy1izWp5yzG87APG
+REACT_APP_AUTH0_REDIRECT_URI=http://localhost:3000
+REACT_APP_AUTH0_LOGOUT_URI=http://localhost:3000
+*/
+
+
+
 import React from 'react';
 import { useAuth0 } from '@auth0/auth0-react';
 
